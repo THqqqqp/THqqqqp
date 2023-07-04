@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @THqqqqp , a 16-year-old high school student.And from China  16岁男高中生
 
-- 🌱 I’m currently learning JaveWeb,Spring boot...   正在学Java
 
 
 <!---
